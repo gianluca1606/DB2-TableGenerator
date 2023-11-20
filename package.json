@@ -24,13 +24,5 @@
     "chai": "^4.2.0",
     "prettier": "^2.0.5",
     "snowpack": "^3.8.8"
-  },
-  "vercel": {
-    "builds": [
-      {
-        "src": "build/*",
-        "use": "@vercel/static"
-      }
-    ]
   }
 }
